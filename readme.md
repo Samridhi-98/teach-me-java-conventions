@@ -6,4 +6,4 @@
 
 **Working Test Output**
 
-![test running](testrunning.png)
+![test running](testrunning.PNG)
